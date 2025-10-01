@@ -149,9 +149,10 @@ Made with ❤️ using Flask and SMTP by [Your Name]
 4. Commit & push to GitHub.  
 5. Use **repo name**: `feedback-form-smtp`  
 
----
+# Feedback Form with Admin Email Notifications
 
-Agar chaho, main is README ke liye ek **shiny GitHub badge set** bhi bana doon jo status, Python version aur last commit date show kare.  
-
-Kya mai wo bhi bana doon?
-```
+[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/feedback-form-smtp/python-app.yml?branch=main&logo=github&style=flat-square)](https://github.com/yourusername/feedback-form-smtp/actions)
+[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.3.2-orange?style=flat-square)](https://flask.palletsprojects.com/)
+[![Last Commit](https://img.shields.io/github/last-commit/yourusername/feedback-form-smtp?style=flat-square)](https://github.com/yourusername/feedback-form-smtp/commits/main)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
