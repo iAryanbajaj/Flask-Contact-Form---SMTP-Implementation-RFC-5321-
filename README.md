@@ -151,8 +151,8 @@ Made with ❤️ using Flask and SMTP by [Your Name]
 
 # Feedback Form with Admin Email Notifications
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/feedback-form-smtp/python-app.yml?branch=main&logo=github&style=flat-square)](https://github.com/yourusername/feedback-form-smtp/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/iAryanbajaj/feedback-form-smtp/python-app.yml?branch=main&logo=github&style=flat-square)](https://github.com/yourusername/feedback-form-smtp/actions)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.3.2-orange?style=flat-square)](https://flask.palletsprojects.com/)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/feedback-form-smtp?style=flat-square)](https://github.com/yourusername/feedback-form-smtp/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/yourusername/feedback-form-smtp?style=flat-square)](https://github.com/iAryanbajaj/feedback-form-smtp/commits/main)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
