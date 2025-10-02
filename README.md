@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Security](https://img.shields.io/badge/Security-High-brightgreen.svg)
 ![Code Coverage](https://img.shields.io/badge/Coverage-95%25-success)
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/flask-contact-form)
+![Last Commit](https://img.shields.io/github/last-commit/iAryanbajaj/flask-contact-form)
 
 A production-ready, enterprise-grade contact form application built with Flask. Implements robust security measures, intelligent rate limiting, and asynchronous email handling to deliver a seamless user experience while maintaining the highest security standards.
 
