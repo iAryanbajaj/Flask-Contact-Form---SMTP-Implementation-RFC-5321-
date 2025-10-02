@@ -204,8 +204,7 @@ flask-contact-form/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](Flask-Contact-Form---SMTP-Implementation-RFC-5321-
-/ LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](Flask-Contact-Form---SMTP-Implementation-RFC-5321-\LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
