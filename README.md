@@ -204,7 +204,7 @@ flask-contact-form/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/iAryanbajaj/flask-contact-form-smtp/blob/main/%20LICENSE)) file for details.
 
 ## 🙏 Acknowledgments
 
