@@ -1,6 +1,6 @@
 
 
-# 🚀 Flask Contact Form - SMTP Implementation (RFC : 5321)
+# 🚀 Flask Contact Form - SMTP Implementation 
 
 ![Flask](https://img.shields.io/badge/Flask-2.0+-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8+-green.svg)
